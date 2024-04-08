@@ -1,6 +1,7 @@
 # probability.js
 
-![Node Current](https://img.shields.io/node/v/@axelgard/probability)
+![NPM Version](https://img.shields.io/npm/v/@axelgard/probability) ![NPM Downloads](https://img.shields.io/npm/dy/@axelgard/probability)
+ 
 
 a extremely small lib for probability in JS.
 This package is mainly for learning about npm and the JS ecosystem.
