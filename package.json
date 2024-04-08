@@ -4,7 +4,7 @@
   "description": "a extremely small lib for probability in JS (for learning about npm)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test/scripts.js"
   },
   "keywords": [
     "math"
